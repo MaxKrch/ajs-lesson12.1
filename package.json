@@ -1,0 +1,19 @@
+{
+  "name": "lesson12.1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxKrch/ajs-lesson12.1.git"
+  },
+  "author": "Me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaxKrch/ajs-lesson12.1/issues"
+  },
+  "homepage": "https://github.com/MaxKrch/ajs-lesson12.1#readme"
+}
